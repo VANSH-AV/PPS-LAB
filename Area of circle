@@ -1,0 +1,11 @@
+# Vansh-Gaikwad PRN- 25070521088
+
+# Area of Circle
+
+radius = float(input())
+
+pi = 3.14
+Area = pi * radius * radius
+
+#Display The Result
+print(f"{Area:.4f}")
